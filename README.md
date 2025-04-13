@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Oleg</h1>
-    <h3>Junior QA Engineer from Moscow</h3>
+    <h3>QA Engineer from Moscow</h3>
 </div>
 
 ### Languages and tools
