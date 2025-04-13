@@ -6,7 +6,16 @@
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
-title="vscode" widht="40" height="40"/>&nbsp;
+title="VScode" widht="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+title="Python" widht="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+title="Postman" widht="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+title="AndroidStudio" widht="40" height="40"/>&nbsp;
+          
+          
+          
           
 
 <!--
