@@ -13,6 +13,8 @@ title="Python" widht="40" height="40"/>&nbsp;
 title="Postman" widht="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
 title="AndroidStudio" widht="40" height="40"/>&nbsp;
+<img src="https://media.rbcdn.ru/media/rbdata/qase.jpg.300x300_q100.jpg"
+title="Qase" widht="40" height="40"/>&nbsp;
           
           
           
