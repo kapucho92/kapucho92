@@ -11,7 +11,7 @@ title="VScode" widht="40" height="40"/>&nbsp;
 title="Python" widht="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 title="Postman" widht="40" height="40"/>&nbsp;
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqUrvezr20po31wE1nXuuZu5qG-j23g8Uig&s](https://static.macupdate.com/submission/501932/d/phpqjk0zo-logo.png)"
+<img src="https://static.macupdate.com/submission/501932/d/phpqjk0zo-logo.png"
 title="Charles" widht="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
 title="AndroidStudio" widht="40" height="40"/>&nbsp;
