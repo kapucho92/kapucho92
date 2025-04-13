@@ -1,7 +1,11 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Oleg</h1>
-    <h3>Junior QA engineer from Moscow</h3>
+    <h3>Junior QA Engineer from Moscow</h3>
 </div>
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+title="vscode" widht="40" height="40"/>&nbsp;
+          
 
 <!--
 **kapucho92/kapucho92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
