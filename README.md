@@ -1,4 +1,7 @@
-## Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there, I'm Oleg</h1>
+    <h3>Junior QA engineer from Moscow</h3>
+</div>
 
 <!--
 **kapucho92/kapucho92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
