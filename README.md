@@ -3,7 +3,8 @@
     <h3>Junior QA Engineer from Moscow</h3>
 </div>
 
-###Languages and tools
+### Languages and tools
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
 title="vscode" widht="40" height="40"/>&nbsp;
           
