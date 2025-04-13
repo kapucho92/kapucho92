@@ -15,6 +15,8 @@ title="Postman" widht="40" height="40"/>&nbsp;
 title="Charles" widht="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
 title="AndroidStudio" widht="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+title="git" widht="40" height="40"/>&nbsp;          
 <img src="https://media.rbcdn.ru/media/rbdata/qase.jpg.300x300_q100.jpg"
 title="Qase" widht="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/2048px-YouTrack_Icon.svg.png"
